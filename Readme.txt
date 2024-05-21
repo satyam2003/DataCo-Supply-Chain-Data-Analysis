@@ -1,0 +1,3 @@
+The aim of this project was to research and develop a machine learning model for predicting the likelihood of a late delivery. 
+I used the DataCo Supply chain dataset available on Kaggle to employ the usage of any three classification methods in python on the dataset and the classification methods used were: Logistic Regression, Gaussian Naïve Bayes, Support Vector Classifier and Decision Tree Classifier. 
+The systematic approach carried included data processing and cleaning, exploratory data analysis (EDA), data preparation for model building, model development, model optimization and conclusion
